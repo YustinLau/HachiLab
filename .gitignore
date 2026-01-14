@@ -3,10 +3,3 @@
 
 # Papers (PDFs should NOT be uploaded)
 05-Papers/*.pdf
-
-# Python
-__pycache__/
-.ipynb_checkpoints/
-
-# VSCode
-.vscode/
