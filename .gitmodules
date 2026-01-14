@@ -1,0 +1,7 @@
+[submodule "01-Leetcode"]
+	path = 01-Leetcode
+	url = git@github.com:YustinLau/leetcode-hachi.git
+
+[submodule "04-PhD-Demos"]
+	path = 04-PhD-Demos
+	url = git@github.com:YustinLau/phd-demos-hachi.git
